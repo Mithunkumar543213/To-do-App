@@ -28,7 +28,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/codescalper/mern-todo.git
+   git clone https://github.com/Mithunkumar543213/To-do-App.git
    cd mern-todo
    ```
 2. Install dependencies for both the server and client:
