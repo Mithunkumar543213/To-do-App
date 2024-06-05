@@ -50,7 +50,7 @@ Follow these instructions to set up and run the project on your local machine.
 4. Start the client:
 	```bash
 	cd client
-	npm start
+	npm run dev
 	```
 	
 	The frontend will run at `http://localhost:5173`.
